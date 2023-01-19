@@ -1,5 +1,5 @@
 import requests
-
+ccc
 url = 'https://api.worldoftanks.ru/wot/account/'
 application_id = 'ecd581ab8edce9d383d6e67e0e22a5f0'
 

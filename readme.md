@@ -14,3 +14,4 @@ you could use any other name instead of `WoT_test`
 
 # Run tests
 - run smoke tests `invoke test.smoke`
+gfdfg

@@ -1,4 +1,4 @@
-# Setup
+# Setup2
 
 ### Prerequisites
 - Python [3.6.0 or higher](https://www.python.org/downloads/)

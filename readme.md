@@ -1,4 +1,5 @@
 # Setup
+
 ### Prerequisites
 - Python [3.6.0 or higher](https://www.python.org/downloads/)
 - [Virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/)
